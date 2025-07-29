@@ -1,7 +1,4 @@
-Claro, LOUVENSDAD! Aqui está um modelo de `README.md` personalizado com base no conteúdo do desafio, adaptado para que
-você possa usá-lo no seu próprio repositório de forma profissional e envolvente:
 
-```markdown
 # 💡 Desafio POO DIO - Aprendendo na Prática Programação Orientada a Objetos
 
 Bem-vindo ao meu projeto de estudo em **Java com Programação Orientada a Objetos (POO)**, criado com base no desafio apresentado pela plataforma [Digital Innovation One (DIO)](https://web.dio.me). Aqui você encontrará uma simulação prática de conceitos fundamentais do paradigma orientado a objetos, aplicados por meio da modelagem de um sistema de gerenciamento de Bootcamp.
